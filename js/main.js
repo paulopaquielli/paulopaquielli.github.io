@@ -30,3 +30,4 @@ const fillInputs = inputs => Object.entries(inputs).forEach(([id, value]) => {
 })
 
 fillInputs(inputs)
+
